@@ -234,20 +234,11 @@ http://localhost:4200
 
 ---
 
-## 🔒 Security Best Practices
 
-- **Never Commit Secrets**: Secrets, keys, and private URLs are stored in `.env` files which are tracked in `.gitignore`.
-- **Stateless Tokens**: Authentication is managed through short-lived signed JWTs.
-- **Sanitized Inputs**: Incoming payloads are strictly validated using `express-validator`.
-- **Rate Limiting**: API routes are protected against brute-force attacks via `express-rate-limit`.
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 <p align="center">
   Crafted with ❤️ for modern university students.
