@@ -1,0 +1,55 @@
+[
+  {
+    "title": "🏆 HackFest 2024 Registrations Now Open!",
+    "content": "Registrations for HackFest 2024 — our 24-hour mega hackathon — are now open! Build innovative solutions for 'Tech for Good'. Teams of 2-4 members. ₹50,000 in total prizes. Register before October 18th. Don't miss this!",
+    "type": "event",
+    "isPinned": true
+  },
+  {
+    "clubName": "CodeCraft",
+    "title": "New: Weekly Contest Rating System",
+    "content": "We're introducing a cumulative rating system for our weekly coding contests. Top performers each week earn points that contribute to the semester leaderboard. Check your current standing in the Results tab!",
+    "type": "club",
+    "isPinned": false
+  },
+  {
+    "title": "📢 Mid-Semester Exam Schedule Released",
+    "content": "The mid-semester examination schedule has been released on the college portal. Students are advised to check their individual timetables. All club events during exam week (Oct 28 - Nov 1) will be rescheduled.",
+    "type": "general",
+    "isPinned": true
+  },
+  {
+    "clubName": "InnovatAI",
+    "title": "Workshop Materials: Neural Networks Session",
+    "content": "Materials from our last AI workshop on CNNs are now available. Python notebooks, slides, and dataset links have been uploaded to the club's GitHub repository. Check your email for the repository access link.",
+    "type": "club",
+    "isPinned": false
+  },
+  {
+    "clubName": "CyberShield",
+    "title": "🚨 Upcoming CTF Practice Sessions",
+    "content": "In preparation for the CTF Championship, we're running 3 practice sessions this week in Lab 5. Sessions at 6 PM on Tuesday, Thursday, and Saturday. Bring your laptops. Focus: Web exploitation and cryptography.",
+    "type": "club",
+    "isPinned": false
+  },
+  {
+    "title": "Congratulations to CodeCraft — ICPC Qualifiers!",
+    "content": "Team 'ByteBreakers' from CodeCraft club has qualified for the ICPC Asia Regional Contest! Arjun Sharma, Aditya Nair, and Vikram Singh will represent our college. Wish them luck!",
+    "type": "result",
+    "isPinned": false
+  },
+  {
+    "clubName": "Rhythm & Rhapsody",
+    "title": "Tarang 2024 Registrations & Auditions",
+    "content": "Auditions for Tarang 2024 start next week! Categories: Solo Singing, Group Dance, Drama, Western Music, and Fine Arts. Audition slots can be booked via the Events tab. Open to ALL students!",
+    "type": "event",
+    "isPinned": false
+  },
+  {
+    "clubName": "SportSync",
+    "title": "Cricket Tournament — Team Registration Deadline",
+    "content": "FINAL REMINDER: Team registrations for the Inter-College Cricket Tournament close on October 20th. Submit your team roster of 11-15 players. Contact the sports secretary for any queries.",
+    "type": "urgent",
+    "isPinned": false
+  }
+]

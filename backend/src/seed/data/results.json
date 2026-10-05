@@ -1,0 +1,89 @@
+[
+  {
+    "eventTitle": "Weekly Coding Contest #41",
+    "week": "2026-W40",
+    "weekStart": "2026-09-28",
+    "weekEnd": "2026-10-04",
+    "positions": [
+      {
+        "position": 1,
+        "winnerReg": "21CS005",
+        "clubName": "CodeCraft",
+        "points": 100,
+        "prize": "₹500 + Certificate"
+      },
+      {
+        "position": 2,
+        "winnerReg": "21CS001",
+        "clubName": "CodeCraft",
+        "points": 75,
+        "prize": "Certificate"
+      },
+      {
+        "position": 3,
+        "winnerReg": "21CI007",
+        "clubName": "CodeCraft",
+        "points": 50,
+        "prize": "Certificate"
+      }
+    ]
+  },
+  {
+    "eventTitle": "AI Project Showcase",
+    "week": "2026-W39",
+    "weekStart": "2026-09-21",
+    "weekEnd": "2026-09-27",
+    "positions": [
+      {
+        "position": 1,
+        "winnerReg": "22CS006",
+        "clubName": "InnovatAI",
+        "points": 150,
+        "prize": "₹2000 + Internship Referral"
+      },
+      {
+        "position": 2,
+        "winnerReg": "21CS001",
+        "clubName": "InnovatAI",
+        "points": 100,
+        "prize": "₹1000"
+      },
+      {
+        "position": 3,
+        "winnerReg": "22CS010",
+        "clubName": "InnovatAI",
+        "points": 75,
+        "prize": "₹500"
+      }
+    ]
+  },
+  {
+    "eventTitle": "Inter-Dept Badminton Singles",
+    "week": "2026-W38",
+    "weekStart": "2026-09-14",
+    "weekEnd": "2026-09-20",
+    "positions": [
+      {
+        "position": 1,
+        "winnerReg": "21CS001",
+        "clubName": "SportSync",
+        "points": 80,
+        "prize": "Gold Medal"
+      },
+      {
+        "position": 2,
+        "winnerReg": "21EE009",
+        "clubName": "SportSync",
+        "points": 60,
+        "prize": "Silver Medal"
+      },
+      {
+        "position": 3,
+        "winnerReg": "22ME004",
+        "clubName": "SportSync",
+        "points": 40,
+        "prize": "Bronze Medal"
+      }
+    ]
+  }
+]

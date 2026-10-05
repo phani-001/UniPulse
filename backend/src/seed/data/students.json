@@ -1,0 +1,146 @@
+[
+  {
+    "registrationNumber": "21CS001",
+    "name": "Arjun Sharma",
+    "email": "arjun.sharma@college.edu",
+    "branch": "Computer Science",
+    "year": 3,
+    "bio": "Full-stack developer passionate about AI and open source.",
+    "skills": ["JavaScript", "Python", "React", "Node.js", "Machine Learning"],
+    "interests": ["Hackathons", "AI", "Open Source", "Gaming"],
+    "links": {
+      "github": "https://github.com/arjunsharma",
+      "linkedin": "https://linkedin.com/in/arjunsharma"
+    },
+    "points": 150
+  },
+  {
+    "registrationNumber": "21CS002",
+    "name": "Priya Patel",
+    "email": "priya.patel@college.edu",
+    "branch": "Computer Science",
+    "year": 3,
+    "bio": "UI/UX designer and frontend developer. Love creating beautiful interfaces.",
+    "skills": ["Figma", "Angular", "CSS", "TypeScript", "Tailwind"],
+    "interests": ["Design", "Photography", "Music", "Coding"],
+    "links": {
+      "github": "https://github.com/priyapatel",
+      "portfolio": "https://priyapatel.design"
+    },
+    "points": 120
+  },
+  {
+    "registrationNumber": "21EC003",
+    "name": "Rohit Kumar",
+    "email": "rohit.kumar@college.edu",
+    "branch": "Electronics",
+    "year": 2,
+    "bio": "Embedded systems enthusiast and IoT hobbyist.",
+    "skills": ["C", "Arduino", "Python", "IoT", "MATLAB"],
+    "interests": ["Robotics", "Electronics", "Gaming", "Sports"],
+    "links": {
+      "github": "https://github.com/rohitkumar"
+    },
+    "points": 80
+  },
+  {
+    "registrationNumber": "22ME004",
+    "name": "Sneha Reddy",
+    "email": "sneha.reddy@college.edu",
+    "branch": "Mechanical",
+    "year": 2,
+    "bio": "CAD enthusiast and formula student team member.",
+    "skills": ["SolidWorks", "AutoCAD", "ANSYS", "Python"],
+    "interests": ["Formula Racing", "3D Printing", "Music", "Dance"],
+    "links": {
+      "linkedin": "https://linkedin.com/in/snehareddy"
+    },
+    "points": 60
+  },
+  {
+    "registrationNumber": "21CS005",
+    "name": "Aditya Nair",
+    "email": "aditya.nair@college.edu",
+    "branch": "Computer Science",
+    "year": 4,
+    "bio": "DevOps and cloud computing guy. AWS certified.",
+    "skills": ["AWS", "Docker", "Kubernetes", "Python", "Node.js", "Java"],
+    "interests": ["Cloud Computing", "Cycling", "Open Source"],
+    "links": {
+      "github": "https://github.com/adityanair",
+      "linkedin": "https://linkedin.com/in/adityanair"
+    },
+    "points": 200
+  },
+  {
+    "registrationNumber": "22CS006",
+    "name": "Kavya Menon",
+    "email": "kavya.menon@college.edu",
+    "branch": "Computer Science",
+    "year": 2,
+    "bio": "Data science and ML enthusiast. Kaggle competitor.",
+    "skills": ["Python", "TensorFlow", "Pandas", "SQL", "R"],
+    "interests": ["Machine Learning", "Data Science", "Badminton", "Reading"],
+    "links": {
+      "github": "https://github.com/kavyamenon"
+    },
+    "points": 90
+  },
+  {
+    "registrationNumber": "21CI007",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@college.edu",
+    "branch": "Information Technology",
+    "year": 3,
+    "bio": "Cybersecurity researcher and CTF player.",
+    "skills": ["Cybersecurity", "Python", "Network Security", "Linux", "Ethical Hacking"],
+    "interests": ["CTF", "Security", "Gaming", "Chess"],
+    "links": {
+      "github": "https://github.com/vikramsingh"
+    },
+    "points": 110
+  },
+  {
+    "registrationNumber": "23CS008",
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@college.edu",
+    "branch": "Computer Science",
+    "year": 1,
+    "bio": "Fresher excited about web development and design.",
+    "skills": ["HTML", "CSS", "JavaScript", "Java"],
+    "interests": ["Web Development", "Dance", "Music", "Art"],
+    "links": {
+      "github": "https://github.com/ananyaiyer"
+    },
+    "points": 30
+  },
+  {
+    "registrationNumber": "21EE009",
+    "name": "Rahul Gupta",
+    "email": "rahul.gupta@college.edu",
+    "branch": "Electrical Engineering",
+    "year": 3,
+    "bio": "Power systems engineer and renewable energy advocate.",
+    "skills": ["MATLAB", "Python", "Power Electronics", "Circuit Design"],
+    "interests": ["Renewable Energy", "Cricket", "Music", "Hiking"],
+    "links": {
+      "linkedin": "https://linkedin.com/in/rahulgupta"
+    },
+    "points": 70
+  },
+  {
+    "registrationNumber": "22CS010",
+    "name": "Divya Krishnan",
+    "email": "divya.krishnan@college.edu",
+    "branch": "Computer Science",
+    "year": 2,
+    "bio": "App developer with a passion for Flutter and mobile-first design.",
+    "skills": ["Flutter", "Dart", "Firebase", "UI Design", "React Native"],
+    "interests": ["Mobile Development", "Badminton", "Photography", "Travel"],
+    "links": {
+      "github": "https://github.com/divyakrishnan",
+      "portfolio": "https://divyakrishnan.dev"
+    },
+    "points": 85
+  }
+]

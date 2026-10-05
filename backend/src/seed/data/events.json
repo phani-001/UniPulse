@@ -1,0 +1,130 @@
+[
+  {
+    "clubName": "CodeCraft",
+    "title": "HackFest 2024 — 24hr Mega Hackathon",
+    "description": "Join us for the biggest hackathon of the year! 24 hours, unlimited pizza, and a chance to win ₹50,000 in prizes. Build innovative solutions around the theme 'Tech for Good'. Teams of 2-4. All branches welcome!",
+    "type": "hackathon",
+    "startDate": "2026-10-20T09:00:00.000Z",
+    "endDate": "2026-10-21T09:00:00.000Z",
+    "registrationDeadline": "2026-10-18T23:59:00.000Z",
+    "venue": "Main Auditorium & Labs Block A",
+    "teamSize": { "min": 2, "max": 4 },
+    "prizes": [
+      { "position": 1, "description": "First Place", "amount": 25000 },
+      { "position": 2, "description": "Second Place", "amount": 15000 },
+      { "position": 3, "description": "Third Place", "amount": 10000 }
+    ],
+    "maxParticipants": 200,
+    "tags": ["hackathon", "coding", "innovation"],
+    "status": "upcoming"
+  },
+  {
+    "clubName": "CodeCraft",
+    "title": "Weekly Coding Contest #42",
+    "description": "Our weekly competitive programming contest on Codeforces. 5 problems, 2 hours. Ratings will be updated. Solve problems from Easy to Expert level.",
+    "type": "competition",
+    "startDate": "2026-10-08T18:00:00.000Z",
+    "endDate": "2026-10-08T20:00:00.000Z",
+    "registrationDeadline": "2026-10-08T17:30:00.000Z",
+    "venue": "Online (Codeforces)",
+    "isOnline": true,
+    "onlineLink": "https://codeforces.com",
+    "teamSize": { "min": 1, "max": 1 },
+    "prizes": [
+      { "position": 1, "description": "Top Performer", "amount": 500 }
+    ],
+    "status": "upcoming"
+  },
+  {
+    "clubName": "InnovatAI",
+    "title": "ML Workshop: Build Your First Neural Network",
+    "description": "Hands-on workshop for beginners to build and train a neural network from scratch using TensorFlow and Keras. Bring your laptops! Prerequisites: Basic Python knowledge.",
+    "type": "workshop",
+    "startDate": "2026-10-12T10:00:00.000Z",
+    "endDate": "2026-10-12T17:00:00.000Z",
+    "registrationDeadline": "2026-10-11T23:59:00.000Z",
+    "venue": "CS Lab 3, Block B",
+    "teamSize": { "min": 1, "max": 1 },
+    "maxParticipants": 50,
+    "status": "upcoming"
+  },
+  {
+    "clubName": "InnovatAI",
+    "title": "AI Paper Reading: Attention Is All You Need",
+    "description": "Join us as we deep-dive into the seminal Transformer paper. We'll discuss the architecture, its implications, and how it shaped modern LLMs. Open to all students!",
+    "type": "seminar",
+    "startDate": "2026-10-09T16:00:00.000Z",
+    "endDate": "2026-10-09T18:00:00.000Z",
+    "registrationDeadline": "2026-10-09T14:00:00.000Z",
+    "venue": "Seminar Hall 2",
+    "teamSize": { "min": 1, "max": 1 },
+    "status": "upcoming"
+  },
+  {
+    "clubName": "Rhythm & Rhapsody",
+    "title": "Tarang 2024 — Annual Cultural Fest",
+    "description": "The grand annual cultural extravaganza! Three days of music, dance, drama, and art. Star performer night, competitions, workshops, and food stalls. Free entry for all students!",
+    "type": "cultural",
+    "startDate": "2026-11-01T09:00:00.000Z",
+    "endDate": "2026-11-03T22:00:00.000Z",
+    "registrationDeadline": "2026-10-28T23:59:00.000Z",
+    "venue": "College Campus",
+    "teamSize": { "min": 1, "max": 10 },
+    "prizes": [
+      { "position": 1, "description": "Best Performance", "amount": 10000 },
+      { "position": 2, "description": "Runner Up", "amount": 5000 }
+    ],
+    "status": "upcoming"
+  },
+  {
+    "clubName": "SportSync",
+    "title": "Inter-College Cricket Tournament 2024",
+    "description": "Annual inter-college cricket tournament with 16 teams competing. T20 format. Prize money and trophies for the top 3 teams. Register your team of 15 players.",
+    "type": "sports",
+    "startDate": "2026-10-25T08:00:00.000Z",
+    "endDate": "2026-10-27T18:00:00.000Z",
+    "registrationDeadline": "2026-10-20T23:59:00.000Z",
+    "venue": "College Cricket Ground",
+    "teamSize": { "min": 11, "max": 15 },
+    "prizes": [
+      { "position": 1, "description": "Champions", "amount": 20000 },
+      { "position": 2, "description": "Runners Up", "amount": 10000 },
+      { "position": 3, "description": "Third Place", "amount": 5000 }
+    ],
+    "status": "upcoming"
+  },
+  {
+    "clubName": "CyberShield",
+    "title": "CTF Championship: Capture The Flag 2024",
+    "description": "Test your cybersecurity skills! Categories include Web Exploitation, Cryptography, Reverse Engineering, and Forensics. Individual participation. 24-hour online event.",
+    "type": "competition",
+    "startDate": "2026-10-15T10:00:00.000Z",
+    "endDate": "2026-10-16T10:00:00.000Z",
+    "registrationDeadline": "2026-10-14T23:59:00.000Z",
+    "venue": "Online",
+    "isOnline": true,
+    "teamSize": { "min": 1, "max": 3 },
+    "prizes": [
+      { "position": 1, "description": "Cyber Champion", "amount": 15000 },
+      { "position": 2, "description": "Runner Up", "amount": 7500 },
+      { "position": 3, "description": "Third Place", "amount": 3000 }
+    ],
+    "status": "upcoming"
+  },
+  {
+    "clubName": "Green Campus Initiative",
+    "title": "Eco-Hackathon: Sustainable Solutions",
+    "description": "Build tech solutions for real environmental problems faced by our campus and city. Categories: Waste Management, Energy Efficiency, Water Conservation, and Biodiversity.",
+    "type": "hackathon",
+    "startDate": "2026-10-30T09:00:00.000Z",
+    "endDate": "2026-10-30T21:00:00.000Z",
+    "registrationDeadline": "2026-10-28T23:59:00.000Z",
+    "venue": "Open Auditorium",
+    "teamSize": { "min": 2, "max": 5 },
+    "prizes": [
+      { "position": 1, "description": "Green Innovator Award", "amount": 10000 },
+      { "position": 2, "description": "Sustainability Champion", "amount": 5000 }
+    ],
+    "status": "upcoming"
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "name": "CodeCraft",
+    "description": "CodeCraft is the premier competitive programming and software engineering society at the college. We host algorithmic problem-solving bootcamps, code sprints, and internal hackathons, with alumni placing in top tech firms and representing the institute at ACM-ICPC.",
+    "shortDescription": "Premier programming & competitive coding club. Weekly algorithmic contests & mentorship.",
+    "category": "Tech",
+    "foundedYear": 2015,
+    "socialLinks": {
+      "instagram": "codecraft_campus",
+      "website": "https://codecraft.college.edu"
+    }
+  },
+  {
+    "name": "InnovatAI",
+    "description": "InnovatAI is dedicated to exploring Artificial Intelligence, Neural Networks, Large Language Models, and Machine Learning applications. Members work on open-source datasets, publish research pre-prints, and build autonomous agents.",
+    "shortDescription": "Artificial Intelligence, Deep Learning and Applied Machine Learning research group.",
+    "category": "Tech",
+    "foundedYear": 2019,
+    "socialLinks": {
+      "instagram": "innovatai_hub"
+    }
+  },
+  {
+    "name": "RoboPulse",
+    "description": "The collegiate robotics and embedded systems club. We design, solder, and program autonomous rovers, combat bots, and IoT hardware solutions. Winners of the National Robotics Championship 2023.",
+    "shortDescription": "Robotics, microcontrollers, IoT automation, and combat bot engineering.",
+    "category": "Tech",
+    "foundedYear": 2017,
+    "socialLinks": {
+      "instagram": "robopulse_tech"
+    }
+  },
+  {
+    "name": "CyberShield",
+    "description": "CyberShield is the ethical hacking and network security guild. Members train in penetration testing, reverse engineering, web exploitation, and regularly place in international Capture-The-Flag (CTF) challenges.",
+    "shortDescription": "Cybersecurity, CTF competitions, cryptography & penetration testing.",
+    "category": "Tech",
+    "foundedYear": 2020,
+    "socialLinks": {
+      "website": "https://cybershield.college.edu"
+    }
+  },
+  {
+    "name": "PixelCraft Studio",
+    "description": "A collective of digital product designers, UI/UX researchers, 3D modelers, and brand strategists. We craft intuitive digital experiences, run design sprints, and collaborate with student startups.",
+    "shortDescription": "Product design, UI/UX architecture, 3D modeling, and visual communication.",
+    "category": "Arts",
+    "foundedYear": 2021,
+    "socialLinks": {
+      "instagram": "pixelcraft.design"
+    }
+  },
+  {
+    "name": "VentureSphere (E-Cell)",
+    "description": "The student entrepreneurship cell fostering innovative student ventures. We conduct pitch competitions, angel investor sessions, and provide pre-seed incubation support to student founders on campus.",
+    "shortDescription": "Campus Entrepreneurship Cell, startup incubation & investor demo days.",
+    "category": "Academic",
+    "foundedYear": 2016,
+    "socialLinks": {
+      "instagram": "venturesphere_ecell",
+      "website": "https://ecell.college.edu"
+    }
+  },
+  {
+    "name": "Rhythm & Rhapsody",
+    "description": "The official collegiate music and stage arts ensemble. From classical symphony and acoustic bands to contemporary dance, we curate the annual campus festival and live acoustic night sessions.",
+    "shortDescription": "Official music, dance, acoustics and performing arts society.",
+    "category": "Cultural",
+    "foundedYear": 2010,
+    "socialLinks": {
+      "instagram": "rhythm_rhapsody"
+    }
+  },
+  {
+    "name": "SportSync",
+    "description": "SportSync manages athletic and intramural sporting tournaments across football, basketball, cricket, badminton, and chess. Dedicated to physical conditioning and collegiate championship representation.",
+    "shortDescription": "Inter-college athletics, tournaments, and intramural league management.",
+    "category": "Sports",
+    "foundedYear": 2012,
+    "socialLinks": {
+      "instagram": "sportsync_campus"
+    }
+  },
+  {
+    "name": "Aperture Guild",
+    "description": "Photography, visual cinematography, and film production club. Capturing campus life, documenting technical hackathons, and producing short films and photo-journalism exhibitions.",
+    "shortDescription": "Cinematography, documentary filmmaking, and digital photography guild.",
+    "category": "Arts",
+    "foundedYear": 2018,
+    "socialLinks": {
+      "instagram": "aperture_visuals"
+    }
+  },
+  {
+    "name": "Eloquence Literary Society",
+    "description": "The premier debating, Model United Nations, and literary forum of the college. Training students in public speaking, parliamentary debate, creative writing, and policy analysis.",
+    "shortDescription": "Debating society, Model UN delegations, public speaking and literary arts.",
+    "category": "Academic",
+    "foundedYear": 2014,
+    "socialLinks": {
+      "instagram": "eloquence_lit"
+    }
+  },
+  {
+    "name": "FinPulse",
+    "description": "Quantitative finance, algorithmic trading, and algorithmic economy club. We host mock stock exchanges, financial modeling hackathons, and portfolio optimization workshops.",
+    "shortDescription": "Quantitative finance, valuation modeling, and fintech analytics.",
+    "category": "Academic",
+    "foundedYear": 2022,
+    "socialLinks": {
+      "website": "https://finpulse.college.edu"
+    }
+  },
+  {
+    "name": "Green Campus Initiative",
+    "description": "Dedicated to ecological sustainability, renewable campus micro-grids, and carbon-neutral student initiatives. Organizes energy audits, e-waste recycling, and environmental awareness forums.",
+    "shortDescription": "Sustainability, eco-technology, and zero-carbon campus initiatives.",
+    "category": "Social",
+    "foundedYear": 2018,
+    "socialLinks": {
+      "instagram": "greencampus_eco"
+    }
+  }
+]
